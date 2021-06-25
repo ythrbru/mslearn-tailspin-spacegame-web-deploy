@@ -4,7 +4,7 @@
 # ms.translationtype: HT
 # ms.contentlocale: ja-JP
 # ms.lasthandoff: 05/19/2021
-# ms.locfileid: "109938300"
+# ms.locfileid: "109938300" 
 trigger:
 - '*'
 variables:
