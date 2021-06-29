@@ -9,8 +9,8 @@ using System.Collections;
 
 namespace UITests
 {
-    //[TestFixture("Chrome")]
-    //[TestFixture("Firefox")]
+    [TestFixture("Chrome")]
+    [TestFixture("Firefox")]
     [TestFixture("Edge")]
     public class HomePageTest
     {
